@@ -1,0 +1,22 @@
+# requirements.txt
+
+
+# project dependencies 
+
+# Library 1
+# Numpy 
+
+# Library 2
+# Pandas
+
+# Library 3
+# Matplotlib
+
+# Library 4
+# sklearn.model_selection,sklearn.preprocessing, sklearn.pipeline, sklearn.compose, sklearn.ensemble,sklearn.model_selection
+
+# Library 5
+# Joblib 
+
+# Additional dependencies
+# Seaborn, scipy,
